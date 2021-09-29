@@ -23,10 +23,9 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@hotwired/turbo@^7.0.1":
+"@hotwired/turbo@https://github.com/seanpdoyle/turbo#546f1137a505ef27ff8eab371141a2308fb05e1f":
   version "7.0.1"
-  resolved "https://registry.yarnpkg.com/@hotwired/turbo/-/turbo-7.0.1.tgz#2a8c6ab2f24914d1d47f3a7a7779e2881e8c61a0"
-  integrity sha512-awqraytYXbHV2NT0WAOnDDDGJeHHnFtnztdXvRuIqgsStUtPKM8B9H7ISm77SwbHemEjxEOB8Ku4RfNbEEXsPQ==
+  resolved "https://github.com/seanpdoyle/turbo#546f1137a505ef27ff8eab371141a2308fb05e1f"
 
 "@rails/actioncable@^6.0.0":
   version "6.1.3"
